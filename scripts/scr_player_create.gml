@@ -1,0 +1,2 @@
+mouseleft = false;
+space = false;
